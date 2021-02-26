@@ -1,0 +1,2 @@
+this is a simple echo Flask application that receives a json via post 
+and echoes it back to the caller
